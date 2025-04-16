@@ -52,6 +52,27 @@ Die Firmware zeigt: Anzeige von Zeichen auf dem Display, Tastenabfrage mit Entpr
 
 ---
 
+<details open>
+<summary><strong>Zum Debuggen ohne Löten</strong></summary>
+<a href="img-vid/Proteus_simulator.png" target="_blank"><img src="img-vid/Proteus_simulator.png" width="25%"></a>
+
+Die gesamte Schaltung wurde vollständig im **Proteus 8 Schematic Simulator** modelliert.  
+Die mit **GCC** kompilierte HEX-Firmware wurde in einen emulierten **ATtiny2313** geladen (der von Proteus nativ unterstützt wird), sodass das Verhalten **vollständig beobachtet und schrittweise debuggt** werden kann – ganz ohne zu löten.
+
+Das bringt viele Vorteile mit sich:  
+Schüler, die noch nicht löten können oder keine Zeit hatten, die Schaltung aufzubauen, können sofort damit „spielen“ und sehen, was sie macht.  
+Experimente im Emulator schützen die reale Schaltung vor Schäden – zum Beispiel, wenn Ports falsch konfiguriert sind (z. B. Ausgang statt hochohmigem Eingang), was zu einem Kurzschluss führen kann.
+
+Auch insgesamt geht das Debugging im Emulator viel schneller, weil man den Mikrocontroller nicht jedes Mal aus dem Sockel nehmen und neu flashen muss.
+
+Ein Beispielvideo zeigt, wie das aussieht:
+
+https://github.com/user-attachments/assets/382203ee-8fdf-477a-9bad-db51eeb9bcae
+
+</details>
+
+---
+
 ### 🎯 Projektziele
 
 - Eine **günstige und einfache Hardware-Plattform** für AVR-Löten und -Programmierung bieten

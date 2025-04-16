@@ -44,6 +44,8 @@
 
 </details>
 
+---
+
 <details open>
 <summary><strong>Для відладки без необхідності щось паяти</strong></summary>
 <a href="img-vid/Proteus_simulator.png" target="_blank"><img src="img-vid/Proteus_simulator.png" width="25%"></a>
@@ -55,12 +57,8 @@
 Та і взагалі відладка на емуляторі відбувається набагато швидше, бо не витрачається час на фізичне витягування мікроконтролера з панельки і перепрошивку програматором.
 
 Детальніше, як це виглядає - можна подивитися в відео:
-<details open>
-<summary><strong>Відео Proteus емуляції (натисніть, щоб розгорнути)</strong></summary>
 
 https://github.com/user-attachments/assets/382203ee-8fdf-477a-9bad-db51eeb9bcae
-
-</details>
 
 </details>
 

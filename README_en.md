@@ -50,6 +50,27 @@ The code includes basic features: character output to the display, button intera
 
 ---
 
+<details open>
+<summary><strong>For debugging without soldering anything</strong></summary>
+<a href="img-vid/Proteus_simulator.png" target="_blank"><img src="img-vid/Proteus_simulator.png" width="25%"></a>
+
+The entire circuit has been fully modeled in **Proteus 8 Schematic Simulator**.  
+A HEX firmware compiled with **AVR-GCC** was loaded into a simulated **ATtiny2313** processor (which is natively supported in Proteus).  
+This allows you to see the full behavior of the system and step through the program **without any soldering**.
+
+This approach has many advantages: students who don’t know how to solder or haven’t had time to build the circuit can immediately "play" with it and observe how it works.  
+Experiments in the emulator also protect the hardware from damage – especially when I/O ports are configured incorrectly (e.g., output instead of input with high impedance), which could otherwise cause a short circuit.
+
+Moreover, debugging is much faster in simulation because there's no need to physically remove the microcontroller from the socket and reflash it manually.
+
+You can watch how it looks in action in the video below:
+
+https://github.com/user-attachments/assets/382203ee-8fdf-477a-9bad-db51eeb9bcae
+
+</details>
+
+---
+
 ### 🎯 Project Goals
 
 - Provide a **cheap and simple hardware platform** for learning AVR soldering and programming
