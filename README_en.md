@@ -18,6 +18,7 @@ I used this project to teach school students soldering and programming. Therefor
 
 <details open>
 <summary><strong>The base is a cheap DIY clock kit</strong></summary>
+<a href="img-vid/ClockHack2313_main.jpg" target="_blank"><img src="img-vid/ClockHack2313_main.jpg" width="17%"></a>
 
 It’s a common soldering kit available on Amazon, AliExpress, etc. — inexpensive and widely available.
 
@@ -39,6 +40,7 @@ Moreover, many **Arduino boards** are also based on the AVR architecture, making
 
 <details open>
 <summary><strong>A demo firmware was written in C</strong></summary>
+<a href="img-vid/AVR_studio.png" target="_blank"><img src="img-vid/AVR_studio.png" width="22%"></a>
 
 Located in the `firmware` folder, written using **AVRStudio** (older version) and compiled with **AVR-GCC**.
 

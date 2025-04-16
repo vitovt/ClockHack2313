@@ -18,6 +18,7 @@ Ich habe dieses Projekt verwendet, um Schülern das Löten und Programmieren bei
 
 <details open>
 <summary><strong>Als Basis diente ein günstiger DIY-Bausatz</strong></summary>
+<a href="img-vid/ClockHack2313_main.jpg" target="_blank"><img src="img-vid/ClockHack2313_main.jpg" width="17%"></a>
 
 Ein typischer Lötbausatz für eine elektronische Uhr, erhältlich auf Amazon, AliExpress etc. – günstig und weit verbreitet.
 
@@ -41,6 +42,7 @@ Beim 89C2051 war ein Pull-Down-Widerstand gegen GND nötig, beim ATtiny2313 muss
 
 <details open>
 <summary><strong>Zur Demonstration habe ich eine kleine C-Firmware geschrieben</strong></summary>
+<a href="img-vid/AVR_studio.png" target="_blank"><img src="img-vid/AVR_studio.png" width="22%"></a>
 
 Sie befindet sich im Ordner `firmware`, geschrieben in **AVRStudio** (ältere Version) und kompiliert mit **AVR-GCC**.
 
