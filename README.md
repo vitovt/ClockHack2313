@@ -8,7 +8,7 @@
 
 <a href="img-vid/Proteus_simulator.png" target="_blank"><img src="img-vid/Proteus_simulator.png" width="25%"></a> <a href="img-vid/AVR_studio.png" target="_blank"><img src="img-vid/AVR_studio.png" width="22%"></a>
 
-<video controls src="img-vid/vokoscreenNG-2025-04-16_18-03-33.mp4" title="Proteus Live Debug demo video"></video>
+https://github.com/user-attachments/assets/382203ee-8fdf-477a-9bad-db51eeb9bcae
 
 [🇺🇦 Українською](#-навчальний-хак-набору-годинника-на-базі-attiny2313) [🇩🇪 Auf Deutsch](#-ein-lehrprojekt-auf-basis-eines-diy-uhr-kits-mit-attiny2313) [🇬🇧 English version](#-educational-hack-of-a-clock-kit-based-on-attiny2313)
 
