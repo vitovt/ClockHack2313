@@ -1,15 +1,21 @@
 # 🕒 ClockHack2313
 
-## 🌍 Доступні мови | Available Languages | Verfügbare Sprachen
+## Screenshots
 
-- 🇺🇦 [Читати повний опис українською](README_uk.md)
-- 🇩🇪 [Vollständige Beschreibung auf Deutsch lesen](README_de.md)
-- 🇬🇧 [Read full description in English](README_en.md)
+
+<a href="img-vid/DIY_kit_details2.png" target="_blank"><img src="img-vid/DIY_kit_details2.png" width="23%"></a> 
+<a href="img-vid/DIY_kit_circuit_scan.png" target="_blank"><img src="img-vid/DIY_kit_circuit_scan.png" width="26%"></a>
+
+<a href="img-vid/Proteus_simulator.png" target="_blank"><img src="img-vid/Proteus_simulator.png" width="25%"></a> <a href="img-vid/AVR_studio.png" target="_blank"><img src="img-vid/AVR_studio.png" width="22%"></a>
+
+<video controls src="img-vid/vokoscreenNG-2025-04-16_18-03-33.mp4" title="Proteus Live Debug demo video"></video>
+
+[🇺🇦 Українською](#-навчальний-хак-набору-годинника-на-базі-attiny2313) [🇩🇪 Auf Deutsch](#-ein-lehrprojekt-auf-basis-eines-diy-uhr-kits-mit-attiny2313) [🇬🇧 English version](#-educational-hack-of-a-clock-kit-based-on-attiny2313)
+
 
 ---
 
-<details>
-<summary>🇺🇦 <strong>Короткий опис українською</strong></summary>
+## — навчальний хак набору годинника на базі ATtiny2313
 
 **ClockHack2313** — це навчальний проєкт, який дозволяє дешево й ефективно вивчати мікроконтролери AVR (зокрема ATtiny2313), роботу з виводом на 7-сегментний дисплей, зчитуванням кнопок, генерацією звуку та використанням таймерів.  
 Цей проєкт створений на базі недорогого DIY-набору годинника, доступного на Amazon, AliExpress та подібних платформах.
@@ -22,12 +28,9 @@
 
 📄 [Перейти до повного опису українською →](README_uk.md)
 
-</details>
-
 ---
 
-<details>
-<summary>🇩🇪 <strong>Kurzbeschreibung auf Deutsch</strong></summary>
+## — ein Lehrprojekt auf Basis eines DIY-Uhr-Kits mit ATtiny2313
 
 **ClockHack2313** ist ein Lernprojekt, das eine kostengünstige und effektive Möglichkeit bietet, AVR-Mikrocontroller (insbesondere ATtiny2313) zu erlernen — einschließlich der Arbeit mit 7-Segment-Displays, Tasten, Summern und Timern.  
 Das Projekt basiert auf einem preiswerten DIY-Uhrenbausatz, der auf Plattformen wie Amazon oder AliExpress erhältlich ist.
@@ -40,12 +43,9 @@ Dieses Projekt wurde im Rahmen meines Elektronik- und Löttechnik-Kurses an eine
 
 📄 [Zur vollständigen deutschen Beschreibung →](README_de.md)
 
-</details>
-
 ---
 
-<details>
-<summary>🇬🇧 <strong>Short Description in English</strong></summary>
+## — educational hack of a clock kit based on ATtiny2313
 
 **ClockHack2313** is an educational project designed to provide a cheap and effective platform for learning AVR microcontrollers (especially ATtiny2313), including display output, button input, sound generation, and timer use.  
 The project is based on an affordable DIY clock kit widely available on Amazon, AliExpress, and similar sites.
@@ -58,4 +58,10 @@ It was developed during my time teaching a school course in basic soldering and 
 
 📄 [Go to full English description →](README_en.md)
 
-</details>
+---
+
+[🇺🇦 Українською](#-навчальний-хак-набору-годинника-на-базі-attiny2313) [🇩🇪 Auf Deutsch](#-ein-lehrprojekt-auf-basis-eines-diy-uhr-kits-mit-attiny2313) [🇬🇧 English version](#-educational-hack-of-a-clock-kit-based-on-attiny2313)
+
+---
+
+
