@@ -59,6 +59,9 @@
 <summary><strong>Відео Proteus емуляції (натисніть, щоб розгорнути)</strong></summary>
 
 <video controls src="img-vid/vokoscreenNG-2025-04-16_18-03-33.mp4" title="Відео Proteus емуляції"></video>
+
+https://github.com/user-attachments/assets/382203ee-8fdf-477a-9bad-db51eeb9bcae
+
 </details>
 
 </details>
