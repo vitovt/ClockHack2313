@@ -3,6 +3,10 @@
 ## Screenshots
 
 
+<a href="img-vid/DIY_kit_details2.png" target="_blank"><img src="img-vid/DIY_kit_details2.png" width="23%"></a> 
+<a href="img-vid/DIY_kit_circuit_scan.png" target="_blank"><img src="img-vid/DIY_kit_circuit_scan.png" width="26%"></a>
+
+<a href="img-vid/Proteus_simulator.png" target="_blank"><img src="img-vid/Proteus_simulator.png" width="25%"></a> <a href="img-vid/AVR_studio.png" target="_blank"><img src="img-vid/AVR_studio.png" width="22%"></a>
 
 ---
 
