@@ -8,6 +8,8 @@
 
 <a href="img-vid/Proteus_simulator.png" target="_blank"><img src="img-vid/Proteus_simulator.png" width="25%"></a> <a href="img-vid/AVR_studio.png" target="_blank"><img src="img-vid/AVR_studio.png" width="22%"></a>
 
+[🇺🇦 Українською](#-навчальний-хак-набору-годинника-на-базі-attiny2313) [🇩🇪 Auf Deutsch](#-ein-lehrprojekt-auf-basis-eines-diy-uhr-kits-mit-attiny2313) [🇬🇧 English version](#-educational-hack-of-a-clock-kit-based-on-attiny2313)
+
 ---
 
 ## — навчальний хак набору годинника на базі ATtiny2313
@@ -55,4 +57,8 @@ It was developed during my time teaching a school course in basic soldering and 
 
 ---
 
-🇺🇦 [Українською](README_uk.md) 🇩🇪 [Auf Deutsch](README_de.md) 🇬🇧 [English version](README_en.md)
+[🇺🇦 Українською](#-навчальний-хак-набору-годинника-на-базі-attiny2313) [🇩🇪 Auf Deutsch](#-ein-lehrprojekt-auf-basis-eines-diy-uhr-kits-mit-attiny2313) [🇬🇧 English version](#-educational-hack-of-a-clock-kit-based-on-attiny2313)
+
+---
+
+
